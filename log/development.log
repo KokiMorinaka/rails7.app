@@ -1,0 +1,21 @@
+Started GET "/" for ::1 at 2023-04-07 18:17:56 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/koki.morinaka/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/koki.morinaka/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 633)
+Completed 200 OK in 14ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 5336)
+
+
+Started GET "/" for ::1 at 2023-04-07 18:18:05 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/koki.morinaka/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/koki.morinaka/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 272)
+Completed 200 OK in 6ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 836)
+
+
+Started GET "/" for ::1 at 2023-04-09 16:23:35 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/koki.morinaka/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/koki.morinaka/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 489)
+Completed 200 OK in 7ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 3460)
+
+
