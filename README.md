@@ -1,1 +1,1 @@
-# rails7.app
+# sukureiping.rb
